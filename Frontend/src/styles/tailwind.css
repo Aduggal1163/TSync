@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@theme {
+  --color-primary: var(--color-indigo-600);
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+
